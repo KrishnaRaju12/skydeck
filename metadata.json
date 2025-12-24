@@ -1,0 +1,7 @@
+{
+  "name": "SkyLog: Personal Aviator",
+  "description": "A refined, 3D interactive flight logger to track your journeys across the globe with aesthetic visualizations and smart flight parsing.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
